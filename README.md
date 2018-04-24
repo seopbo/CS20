@@ -4,15 +4,15 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 * github : https://github.com/chiphuyen/stanford-tensorflow-tutorials 
 - - -
 
-### 1. Overview of Tensorflow
+### 01. Overview of Tensorflow
 - Lec1 Overview of Tensorflow의 example code
 	- [Lec1_Overview of Tensorflow.ipynb](https://github.com/aisolab/CS20/blob/master/Lec1_Overview%20of%20Tensorflow/Lec1_Overview%20of%20Tensorflow.ipynb)
 
-### 2. Operations
+### 02. Operations
 - Lec2 Operations의 example code
 	- [Lec2_Operations.ipynb](https://github.com/aisolab/CS20/blob/master/Lec2_Operations/Lec2_Operations.ipynb)
 
-### 3. Linear and Logistic Regression
+### 03. Linear and Logistic Regression
 - Lec3 Linear and Logistic Regression의 example code
 	- [Lec3_Linear Regression with mse loss.ipynb](https://github.com/aisolab/CS20/blob/master/Lec3_Linear%20and%20Logistic%20Regression/Lec3_Linear%20Regression%20with%20mse%20loss.ipynb)
 	- [Lec3_Linear Regression with huber loss by low-level.ipynb](https://github.com/aisolab/CS20/blob/master/Lec3_Linear%20and%20Logistic%20Regression/Lec3_Linear%20Regression%20with%20huber%20loss%20by%20low-level.ipynb)
@@ -21,12 +21,12 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec3_Logistic Regression with ce loss.ipynb](https://github.com/aisolab/CS20/blob/master/Lec3_Linear%20and%20Logistic%20Regression/Lec3_Logistic%20Regression%20with%20ce%20loss.ipynb)
 	- [Lec3_Logistic Regression with tf.data.ipynb](https://github.com/aisolab/CS20/blob/master/Lec3_Linear%20and%20Logistic%20Regression/Lec3_Logistic%20Regression%20with%20tf.data.ipynb)
 
-### 4. Eager Execution
-### 5. Variable sharing and managing experiments
-### 6. Convnet in TensorFlow
-### 7. Convolution Neural Networks and Generative Adversarial Network
-### 8. Variational Auto-Encoders
-### 9. Recurrent Neural Networks
+### 04. Eager Execution
+### 05. Variable sharing and managing experiments
+### 06. Convnet in TensorFlow
+### 07. Convolution Neural Networks and Generative Adversarial Network
+### 08. Variational Auto-Encoders
+### 09. Recurrent Neural Networks
 ### 10. Seq2Seq with Attention
 
 
