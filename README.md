@@ -23,6 +23,9 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 
 ### 04. Eager Execution
 ### 05. Variable sharing and managing experiments
+- Lec5 Variable sharing and managing experiments의 example code
+	- [Lec5_Variable sharing.ipynb](https://github.com/aisolab/CS20/blob/master/Lec5_Variable%20sharing%20and%20managing%20experiments/Lec5_Variable%20sharing.ipynb)
+
 ### 06. Convnet in TensorFlow
 ### 07. Convolution Neural Networks and Generative Adversarial Network
 ### 08. Variational Auto-Encoders
