@@ -28,6 +28,7 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec5_Randomization.ipynb](https://github.com/aisolab/CS20/blob/master/Lec5_Variable%20sharing%20and%20managing%20experiments/Lec5_Randomization.ipynb)
 	- [Lec5_Applied example with tf.placeholder.ipynb](https://github.com/aisolab/CS20/blob/master/Lec5_Variable%20sharing%20and%20managing%20experiments/Lec5_Applied%20example%20with%20tf.placeholder.ipynb)
 	- [Lec5_Applied example with tf.data.ipynb](https://github.com/aisolab/CS20/blob/master/Lec5_Variable%20sharing%20and%20managing%20experiments/Lec5_Applied%20example%20with%20tf.data.ipynb)
+	- [Lec5_Word2vec_simple.ipynb](https://github.com/aisolab/CS20/blob/master/Lec5_Variable%20sharing%20and%20managing%20experiments/Lec5_Word2vec_simple.ipynb)
 
 ### 06. Convnet in TensorFlow
 ### 07. Convolution Neural Networks and Generative Adversarial Network
