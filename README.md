@@ -31,6 +31,9 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 
 ### 06. Introduction to ConvNet
 ### 07. ConvNet in TensorFlow
+- Lec7 ConvNet in TensorFlow의 example code
+	- [Lec7_ConvNet mnist by low-level.ipynb](https://github.com/aisolab/CS20/blob/master/Lec7_ConvNet%20in%20Tensorflow/Lec7_ConvNet%20mnist%20by%20low-level.ipynb)
+
 ### 08. Style Transfer
 ### 09. Variational Auto-Encoders
 ### 10. Generative Adversarial Networks
