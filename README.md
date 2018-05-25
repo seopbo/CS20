@@ -35,7 +35,7 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec7_ConvNet mnist by low-level.ipynb](https://github.com/aisolab/CS20/blob/master/Lec7_ConvNet%20in%20Tensorflow/Lec7_ConvNet%20mnist%20by%20low-level.ipynb)
 	- [Lec7_ConvNet mnist by high-level.ipynb](https://github.com/aisolab/CS20/blob/master/Lec7_ConvNet%20in%20Tensorflow/Lec7_ConvNet%20mnist%20by%20high-level.ipynb)
 	- [Lec7_ConvNet mnist with Weight initialization and Drop out.ipynb](https://github.com/aisolab/CS20/blob/master/Lec7_ConvNet%20in%20Tensorflow/Lec7_ConvNet%20mnist%20with%20Weight%20initialization%20and%20Drop%20out.ipynb)
-	[Lec7_ConvNet mnist with Weight initialization and Batch norm.ipynb](https://github.com/aisolab/CS20/blob/master/Lec7_ConvNet%20in%20Tensorflow/Lec7_ConvNet%20mnist%20with%20Weight%20initialization%20and%20Batch%20norm.ipynb)
+	- [Lec7_ConvNet mnist with Weight initialization and Batch norm.ipynb](https://github.com/aisolab/CS20/blob/master/Lec7_ConvNet%20in%20Tensorflow/Lec7_ConvNet%20mnist%20with%20Weight%20initialization%20and%20Batch%20norm.ipynb)
 
 ### 08. Style Transfer
 ### 09. Variational Auto-Encoders
