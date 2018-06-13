@@ -47,6 +47,8 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec11_Sequence Classificaion by LSTM.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20LSTM.ipynb)
 	- [Lec11_Sequence Classificaion by GRU.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20GRU.ipynb)
 	- [Lec11_Sequence Classificaion by Bi-directional RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20Bi-directional%20RNN.ipynb)
+	- [Lec11_Sequence Classificaion by Bi-directional LSTM.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20Bi-directional%20LSTM.ipynb)
+	- [Lec11_Sequence Classificaion by Bi-directional GRU.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20Bi-directional%20GRU.ipynb)
 	- [Lec11_Sequence Classificaion by Stacked RNN with Drop out.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20Stacked%20RNN%20with%20Drop%20out.ipynb)
 	- [Lec11_Sequence Classificaion by Stacked LSTM with Drop out.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20Stacked%20LSTM%20with%20Drop%20out.ipynb)
 	- [Lec11_Sequence Classificaion by Stacked GRU with Drop out.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20Stacked%20GRU%20with%20Drop%20out.ipynb)
