@@ -61,9 +61,10 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec11_Sequence to Sequence Classification by RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20RNN.ipynb)
 	- [Lec11_Sequence to Sequence Classification by LSTM.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20LSTM.ipynb)
 	- [Lec11_Sequence to Sequence Classification by GRU.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20GRU.ipynb)
-	- [Lec11_Sequence to Sequence Classification by Bi-direciontal RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Bi-direciontal%20RNN.ipynb)
-	- [Lec11_Sequence to Sequence Classification by Bi-direciontal LSTM.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Bi-direciontal%20LSTM.ipynb)
-	- [Lec11_Sequence to Sequence Classification by Bi-direciontal GRU.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Bi-direciontal%20GRU.ipynb)
+	- [Lec11_Sequence to Sequence Classification by Bi-directional RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Bi-directional%20RNN.ipynb)
+	- [Lec11_Sequence to Sequence Classification by Bi-directional LSTM.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Bi-directional%20LSTM.ipynb)
+	- [Lec11_Sequence to Sequence Classification by Bi-directional GRU.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Bi-directional%20GRU.ipynb)
+	- [Lec11_Sequence to Sequence Classification by Stacked RNN with Drop out.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Stacked%20RNN%20with%20Drop%20out.ipynb)
 
 ### 12. Seq2seq with Attention
 
