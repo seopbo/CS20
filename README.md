@@ -59,6 +59,8 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 
 - many to many
 	- [Lec11_Sequence to Sequence Classification with RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20with%20RNN.ipynb)
+	- [Lec11_Sequence to Sequence Classification with LSTM.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20with%20LSTM.ipynb)
+	- [Lec11_Sequence to Sequence Classification with GRU.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20with%20GRU.ipynb)
 
 ### 12. Seq2seq with Attention
 
