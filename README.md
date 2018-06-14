@@ -43,7 +43,7 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 ### 10. Generative Adversarial Networks
 ### 11. Recurrent Neural Networks
 - Lec11 Recurrent Neural Networks의 example code
-- many to one
+- many to one 
 	- [Lec11_Sequence Classificaion by RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20RNN.ipynb)
 	- [Lec11_Sequence Classificaion by LSTM.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20LSTM.ipynb)
 	- [Lec11_Sequence Classificaion by GRU.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20GRU.ipynb)
@@ -58,6 +58,7 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec11_Sequence Classificaion by Stacked Bi-directional GRU with Drop out.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20Stacked%20Bi-directional%20GRU%20with%20Drop%20out.ipynb)
 
 - many to many
-- 
+	- [Lec11_Sequence to Sequence Classification with RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20with%20RNN.ipynb)
+
 ### 12. Seq2seq with Attention
 
