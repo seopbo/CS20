@@ -72,7 +72,7 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec11_Sequence to Sequence Classification by Stacked Bi-directional GRU with Drop out.ipynb](https://github.com/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20to%20Sequence%20Classification%20by%20Stacked%20Bi-directional%20GRU%20with%20Drop%20out.ipynb)
 
 ### 12. Seq2Seq with Attention
-- Lec11 Recurrent Neural Networks의 example code
+- Lec12 Seq2Seq with Attention의 example code
 - encoder decoder (many to many), simple neural machine translation example
 	- [Lec12_Seq2Seq by Encoder RNN and Decoder RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec12_Seq2Seq%20with%20Attention/Lec12_Seq2Seq%20by%20Encoder%20RNN%20and%20Decoder%20RNN.ipynb)
 
