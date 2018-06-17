@@ -77,4 +77,5 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 - encoder decoder (many to many), simple neural machine translation example
 	- [Lec12_Seq2Seq by Encoder RNN and Decoder RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec12_Seq2Seq%20with%20Attention/Lec12_Seq2Seq%20by%20Encoder%20RNN%20and%20Decoder%20RNN.ipynb)
 	- [Lec12_Seq2Seq by Encoder Bi-directional RNN and Decoder RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec12_Seq2Seq%20with%20Attention/Lec12_Seq2Seq%20by%20Encoder%20Bi-directional%20RNN%20and%20Decoder%20RNN.ipynb)
+	- [Lec12_Seq2Seq with Attention by Encoder RNN and Decoder RNN.ipynb](https://github.com/aisolab/CS20/blob/master/Lec12_Seq2Seq%20with%20Attention/Lec12_Seq2Seq%20with%20Attention%20by%20Encoder%20RNN%20and%20Decoder%20RNN.ipynb)
 
