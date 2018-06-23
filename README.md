@@ -6,11 +6,11 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 
 ### 01. Overview of Tensorflow
 - Lec01 Overview of Tensorflow의 example code
-	- [Lec01_Overview of Tensorflow.ipynb](https://github.com/aisolab/CS20/blob/master/Lec01_Overview%20of%20Tensorflow/Lec01_Overview%20of%20Tensorflow.ipynb)
+	- [Lec01_Overview of Tensorflow.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec01_Overview%20of%20Tensorflow/Lec01_Overview%20of%20Tensorflow.ipynb)
 
 ### 02. Operations
 - Lec02 Operations의 example code
-	- [Lec02_Operations.ipynb](https://github.com/aisolab/CS20/blob/master/Lec02_Operations/Lec02_Operations.ipynb)
+	- [Lec02_Operations.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec02_Operations/Lec02_Operations.ipynb)
 
 ### 03. Linear and Logistic Regression
 - Lec03 Linear and Logistic Regression의 example code
