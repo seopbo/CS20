@@ -42,6 +42,9 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 ### 09. Variational Auto-Encoders
 ### 10. Generative Adversarial Networks
 ### 11. Recurrent Neural Networks
+- Presentation
+	- [To quickly implementing RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/To%20quickly%20implementing%20RNN.ipynb)
+
 - Lec11 Recurrent Neural Networks의 example code
 - many to one, word sentiment classification example
 	- [Lec11_Sequence Classificaion by RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Sequence%20Classificaion%20by%20RNN.ipynb)
