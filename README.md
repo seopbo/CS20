@@ -13,8 +13,10 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 	- [Lec02_Operations.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec02_Operations/Lec02_Operations.ipynb)
 
 ### 03. Linear and Logistic Regression
-- Simple tutorial for tf.data
-	- asdf 
+- Simple usage of tf.data
+	- [How to simply use tf.data.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/How%20to%20simply%20use%20tf.data.ipynb)
+
+
 - Lec03 Linear and Logistic Regression의 example code
 	- [Lec03_Linear Regression with mse loss.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20mse%20loss.ipynb)
 	- [Lec03_Linear Regression with huber loss by low-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20huber%20loss%20by%20low-level.ipynb)
@@ -46,6 +48,7 @@ CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflo
 ### 11. Recurrent Neural Networks
 - Presentation
 	- [To quickly implementing RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/To%20quickly%20implementing%20RNN.ipynb)
+
 
 - Lec11 Recurrent Neural Networks의 example code
 - many to one, word sentiment classification example
