@@ -1,5 +1,5 @@
 # CS 20 : Tensorflow for Deep Learning Research
-CS 20 : Tensorflow for Deep Learning Research의 Lecture 별 코드를 tensorflow 1.8.0에 맞게 정리
+Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research with tensorflow 1.11
 * syllabus : http://web.stanford.edu/class/cs20si/syllabus.html
 * github : https://github.com/chiphuyen/stanford-tensorflow-tutorials 
 - - -
