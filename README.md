@@ -5,7 +5,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research with 
 - - -
 
 ### 01. Overview of Tensorflow
-- Lec01 Overview of Tensorflow의 example code
+- Lec01 Overview of Tensorflow example code
 	- [Lec01_Overview of Tensorflow.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec01_Overview%20of%20Tensorflow/Lec01_Overview%20of%20Tensorflow.ipynb)
 
 ### 02. Operations
@@ -17,7 +17,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research with 
 	- [How to simply use tf.data.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/How%20to%20simply%20use%20tf.data.ipynb)
 
 
-- Lec03 Linear and Logistic Regression의 example code
+- Lec03 Linear and Logistic Regression example code
 	- [Lec03_Linear Regression with mse loss.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20mse%20loss.ipynb)
 	- [Lec03_Linear Regression with huber loss by low-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20huber%20loss%20by%20low-level.ipynb)
 	- [Lec03_Linear Regression with huber loss by high-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20huber%20loss%20by%20high-level.ipynb)
@@ -26,8 +26,14 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research with 
 	- [Lec03_Logistic Regression with tf.data.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Logistic%20Regression%20with%20tf.data.ipynb)
 
 ### 04. Eager Execution
++ Lec04 Eager execution example code
+	* [Lec04_Eager execution.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec04_Eager%20execution/Lec04_Eager%20execution.ipynb)
+	* [Lec04_Automatic differentiation and gradient tape.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec04_Eager%20execution/Lec04_Automatic%20differentiation%20and%20gradient%20tape.ipynb)
+	* [Lec04_Custom training basics.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec04_Eager%20execution/Lec04_Custom%20training%20basics.ipynb)
+	* [Lec04_Custom training walkthrough.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec04_Eager%20execution/Lec04_Custom%20training%20walkthrough.ipynb)
+	* [Lec04_Custom training subclassing.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec04_Eager%20execution/Lec04_Custom%20training%20subclassing.ipynb)
 ### 05. Variable sharing and managing experiments
-- Lec05 Variable sharing and managing experiments의 example code
+- Lec05 Variable sharing and managing experiments example code
 	- [Lec05_Variable sharing.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Variable%20sharing.ipynb)
 	- [Lec05_Randomization.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Randomization.ipynb)
 	- [Lec05_Applied example with tf.placeholder.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.placeholder.ipynb)
@@ -36,7 +42,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research with 
 
 ### 06. Introduction to ConvNet
 ### 07. ConvNet in TensorFlow
-- Lec07 ConvNet in TensorFlow의 example code
+- Lec07 ConvNet in TensorFlow example code
 	- [Lec07_ConvNet mnist by low-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20by%20low-level.ipynb)
 	- [Lec07_ConvNet mnist by high-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20by%20high-level.ipynb)
 	- [Lec07_ConvNet mnist with Weight initialization and Drop out.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20with%20Weight%20initialization%20and%20Drop%20out.ipynb)
@@ -50,7 +56,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research with 
 	- [To quickly implementing RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/To%20quickly%20implementing%20RNN.ipynb)
 
 
-- Lec11 Recurrent Neural Networks의 example code
+- Lec11 Recurrent Neural Networks example code
 - many to one, word sentiment classification example
 	- [Lec11_Many to One Classification by RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20One%20Classification%20by%20RNN.ipynb)
 	- [Lec11_Many to One Classification by LSTM.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20One%20Classification%20by%20LSTM.ipynb)
@@ -80,7 +86,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research with 
 	- [Lec11_Many to Many Classification by Stacked Bi-directional GRU with Drop out.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20Many%20Classification%20by%20Stacked%20Bi-directional%20GRU%20with%20Drop%20out.ipynb)
 
 ### 12. Seq2Seq with Attention
-- Lec12 Seq2Seq with Attention의 example code
+- Lec12 Seq2Seq with Attention example code
 
 - encoder decoder (many to many), simple neural machine translation example
 	- [Lec12_Seq2Seq by Encoder RNN and Decoder RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec12_Seq2Seq%20with%20Attention/Lec12_Seq2Seq%20by%20Encoder%20RNN%20and%20Decoder%20RNN.ipynb)
