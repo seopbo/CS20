@@ -9,7 +9,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research follo
 	- [Lec01_Overview of Tensorflow.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec01_Overview%20of%20Tensorflow/Lec01_Overview%20of%20Tensorflow.ipynb)
 
 ### 02. Operations
-- Lec02 Operations의 example code
+- Lec02 Operations example code
 	- [Lec02_Operations.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec02_Operations/Lec02_Operations.ipynb)
 
 ### 03. Linear and Logistic Regression
@@ -33,6 +33,9 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research follo
 	* [Lec04_Custom training walkthrough.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec04_Eager%20execution/Lec04_Custom%20training%20walkthrough.ipynb)
 	* [Lec04_Custom training subclassing.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec04_Eager%20execution/Lec04_Custom%20training%20subclassing.ipynb)
 ### 05. Variable sharing and managing experiments
+- Simple usage of tf.keras
+	- [How to use keras.ipynb](https://github.com/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/How%20to%20use%20keras.ipynb) 
+
 - Lec05 Variable sharing and managing experiments example code
 	- [Lec05_Variable sharing.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Variable%20sharing.ipynb)
 	- [Lec05_Randomization.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Randomization.ipynb)
