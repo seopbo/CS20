@@ -1,5 +1,9 @@
 # CS 20 : Tensorflow for Deep Learning Research
 Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research following tensorflow 2.0 (current tf 1.12)
+
+* notice
+	+ `{filname}_kde.ipynb` are implemented by using `tf.keras`, `tf.data` and `eager execution` 
+
 * syllabus : http://web.stanford.edu/class/cs20si/syllabus.html
 * github : https://github.com/chiphuyen/stanford-tensorflow-tutorials 
 - - -
@@ -41,6 +45,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research follo
 	- [Lec05_Randomization.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Randomization.ipynb)
 	- [Lec05_Applied example with tf.placeholder.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.placeholder.ipynb)
 	- [Lec05_Applied example with tf.data.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.data.ipynb)
+	- [Lec05_Applied example with tf.data_kde.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.data_kde.ipynb)
 	- [Lec05_Word2vec_simple.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Word2vec_simple.ipynb)
 
 ### 06. Introduction to ConvNet
