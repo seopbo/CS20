@@ -2,7 +2,8 @@
 Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research following tensorflow 2.0 (current tf 1.12)
 
 * notice
-	+ `{filname}_kde.ipynb` are implemented by using `tf.keras`, `tf.data` and `eager execution` 
+	+ `{filename}_de.ipynb` is implemented by using `tf.data` and `eager execution`
+	+ `{filename}_kde.ipynb` is implemented by using `tf.keras`, `tf.data` and `eager execution` 
 
 * syllabus : http://web.stanford.edu/class/cs20si/syllabus.html
 * github : https://github.com/chiphuyen/stanford-tensorflow-tutorials 
@@ -26,8 +27,10 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research follo
 	- [Lec03_Linear Regression with huber loss by low-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20huber%20loss%20by%20low-level.ipynb)
 	- [Lec03_Linear Regression with huber loss by high-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20huber%20loss%20by%20high-level.ipynb)
 	- [Lec03_Linear Regression with tf.data.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20tf.data.ipynb)
+	- [Lec03_Linear Regression with tf.data_de.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Linear%20Regression%20with%20tf.data_de.ipynb)
 	- [Lec03_Logistic Regression with ce loss.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Logistic%20Regression%20with%20ce%20loss.ipynb)
 	- [Lec03_Logistic Regression with tf.data.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Logistic%20Regression%20with%20tf.data.ipynb)
+	- [Lec03_Logistic Regression with tf.data_de.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec03_Linear%20and%20Logistic%20Regression/Lec03_Logistic%20Regression%20with%20tf.data_de.ipynb)
 
 ### 04. Eager Execution
 + Lec04 Eager execution example code
@@ -62,7 +65,6 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research follo
 ### 11. Recurrent Neural Networks
 - Presentation
 	- [To quickly implementing RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/To%20quickly%20implementing%20RNN.ipynb)
-
 
 - Lec11 Recurrent Neural Networks example code
 - many to one, word sentiment classification example
