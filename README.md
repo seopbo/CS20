@@ -2,6 +2,7 @@
 Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research following tensorflow 2.0 (current tf 1.12)
 
 * notice
+	+ `{filename}_kd.ipynb` is implemented by using `tf.keras` and `tf.data`
 	+ `{filename}_de.ipynb` is implemented by using `tf.data` and `eager execution`
 	+ `{filename}_kde.ipynb` is implemented by using `tf.keras`, `tf.data` and `eager execution` 
 
