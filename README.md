@@ -57,6 +57,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research follo
 - Lec07 ConvNet in TensorFlow example code
 	- [Lec07_ConvNet mnist by low-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20by%20low-level.ipynb)
 	- [Lec07_ConvNet mnist by high-level.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20by%20high-level.ipynb)
+	- [Lec07_ConvNet mnist by high-level_kd.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20by%20high-level_kd.ipynb)
 	- [Lec07_ConvNet mnist by high-level_kde.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20by%20high-level_kde.ipynb)
 	- [Lec07_ConvNet mnist with Weight initialization and Drop out.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20with%20Weight%20initialization%20and%20Drop%20out.ipynb)
 	- [Lec07_ConvNet mnist with Weight initialization and Drop out_kde.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec07_ConvNet%20in%20Tensorflow/Lec07_ConvNet%20mnist%20with%20Weight%20initialization%20and%20Drop%20out_kde.ipynb)
