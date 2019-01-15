@@ -74,6 +74,7 @@ Refactoring code examples of CS 20 : Tensorflow for Deep Learning Research follo
 - Lec11 Recurrent Neural Networks example code
 - many to one, word sentiment classification example
 	- [Lec11_Many to One Classification by RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20One%20Classification%20by%20RNN.ipynb)
+	- [Lec11_Many to One Classification by RNN_kde.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20One%20Classification%20by%20RNN_kde.ipynb)
 	- [Lec11_Many to One Classification by LSTM.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20One%20Classification%20by%20LSTM.ipynb)
 	- [Lec11_Many to One Classification by GRU.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20One%20Classification%20by%20GRU.ipynb)
 	- [Lec11_Many to One Classification by Bi-directional RNN.ipynb](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec11_Recurrent%20Neural%20Networks/Lec11_Many%20to%20One%20Classification%20by%20Bi-directional%20RNN.ipynb)
